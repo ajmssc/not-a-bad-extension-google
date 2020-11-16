@@ -10,4 +10,4 @@ So Google? Come on, go ahead. Come after me and everyone else for reverse-engine
 
 And this won't just be another fork where I copy and do nothing. I'm going to work on this project and make sure it works on Linux and macOS. I'm going to back it up every step of the way so that even if you try to take me down, I'll just come back up.
 
-So let's fight, Google.
+So let's fight, Google. Let's fight, Microsoft. Or Facebook. Anyone who doesn't understand that the open-source world does what it has to do to educate, create, and build.
