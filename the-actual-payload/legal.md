@@ -1,6 +1,6 @@
 "This is for educational purposes only. Downloading copyrighted materials from streaming services may violate their Terms of Service. **Use at your own risk.**"
 
-Even after writing this, Google still pitched a fit. Because as of 11.09.20, they've DMCA'd almost every fork of this project. Even with our notices that we intend these for educational purposes, they still don't care. They're hell bent on censoring everything that crosses their path.
+Even after writing this, Google still pitched a fit. Because as of 11.09.20, they've DCMA'd almost every fork of this project. Even with our notices that we intend these for educational purposes, they still don't care. They're hell bent on censoring everything that crosses their path.
 
 No more.
 
