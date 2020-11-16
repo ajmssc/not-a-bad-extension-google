@@ -1,2 +1,2 @@
 # not-a-bad-extension-google
-Something about WideVine DRM?
+We're the open-source community, and we don't take no for an answer.
